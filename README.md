@@ -2,7 +2,7 @@
 
 My name is Dave. I'm a Senior Technical Writer by day, and a Swift programmer for macOS by night. All my projects are Free and Open Source, so feel free to fork or modify any of them. If you think your changes are nice, don' hesitate to open a PR :)
 
-## About My Programming Journey
+## My Programming Journey
 
 I used to work as a web developer for a couple of years, but my true caling turned out to be technical writing and macOS programming. You can still see my webdev past:
 
@@ -12,7 +12,12 @@ Check out my stats:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=buresdv&show_icons=true&theme=cobalt)
 
-I would not consider myself a god programmer, I just make apps that I would find useful :)
+I would not consider myself a good programmer, I just make apps that I would find useful :)
+
+## Fun Facts About Me
+- I can speak four languages fluently. 🇨🇿 Czech, 🇺🇸 English, 🇸🇮 Slovene and 🇸🇰 Slovak. Furthermore, I am also conversational in 🇨🇳 Chinese, 🇯🇵 Japanese and, to a lesser degree, 🇭🇷 Croatian and 🇷🇺 Russian.
+- My right shoulder had to be reconstructed due to multiple injuries playing volleyball. I still can§ feel anything around the shoulder.
+
 
 <!--
 **buresdv/buresdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
