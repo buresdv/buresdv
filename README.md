@@ -1,6 +1,6 @@
 ### Hey guys, I hope you're doing well
 
-My name is Dave. I'm a Senior Technical Writer by day, and a Swift programmer for macOS by night. All my projects are Free and Open Source, so feel free to fork or modify any of them. If you think your changes are nice, don' hesitate to open a PR :)
+My name is Dave. I'm a Senior Technical Writer by day, and a Swift programmer for macOS by night. All my projects are Free and Open Source, so feel free to fork or modify any of them. If you think your changes are nice, don't hesitate to open a PR :)
 
 ## My Programming Journey
 
@@ -17,6 +17,7 @@ I would not consider myself a good programmer, I just make apps that I would fin
 ## Fun Facts About Me
 - I can speak four languages fluently. 🇨🇿 Czech, 🇺🇸 English, 🇸🇮 Slovene and 🇸🇰 Slovak. Furthermore, I am also conversational in 🇨🇳 Chinese, 🇯🇵 Japanese and, to a lesser degree, 🇭🇷 Croatian and 🇷🇺 Russian.
 - My right shoulder had to be reconstructed due to multiple injuries playing volleyball. I still can't feel the shoulder.
+- I have a shitty keyboard that has ghosting issues. That's why I sometimes write *don'* instead of *don't*, and *can§* instead of *can't*.
 
 
 <!--
