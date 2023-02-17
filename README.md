@@ -1,6 +1,6 @@
 ### Hey guys, I hope you're doing well
 
-My name is Dave. I'm a Senior Technical Writer by day, and a Swift programmer for macOS by night. All my projects are Free and Open Source, so feel free to fork or modify any of them. If you think your changes are nice, don't hesitate to open a PR :)
+My name is Dave. I'm a Senior Technical Writer by day, and a Swift programmer for macOS by night. All my projects are Open Source, so feel free to open a PR :)
 
 ## My Programming Journey
 
